@@ -1,0 +1,1 @@
+# custom-favicon-title-extension
